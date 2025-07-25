@@ -1,0 +1,19 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_food",
+        "test_case_name": "menu_planning",
+        "description": "Corporate Menu Planning"
+    },
+    "documents": [
+        "vegetarian_recipes.pdf",
+        "gluten_free_cooking.pdf",
+        "buffet_planning_guide.pdf",
+        "nutritional_guidelines.pdf"
+    ],
+    "persona": {
+        "role": "Food Contractor"
+    },
+    "job_to_be_done": {
+        "task": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free options."
+    }
+}

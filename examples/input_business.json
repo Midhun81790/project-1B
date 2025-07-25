@@ -1,0 +1,19 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_business",
+        "test_case_name": "investment_analysis",
+        "description": "Business Investment Analysis"
+    },
+    "documents": [
+        "financial_report_q1.pdf",
+        "financial_report_q2.pdf",
+        "market_analysis.pdf",
+        "competitor_report.pdf"
+    ],
+    "persona": {
+        "role": "Investment Analyst"
+    },
+    "job_to_be_done": {
+        "task": "Analyze revenue trends and growth opportunities for technology companies in the current market."
+    }
+}

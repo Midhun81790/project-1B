@@ -1,0 +1,18 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_example",
+        "test_case_name": "academic_research",
+        "description": "Academic Research Example"
+    },
+    "documents": [
+        "research_paper_1.pdf",
+        "research_paper_2.pdf",
+        "survey_paper.pdf"
+    ],
+    "persona": {
+        "role": "PhD Student"
+    },
+    "job_to_be_done": {
+        "task": "Conduct a comprehensive literature review on machine learning techniques for natural language processing."
+    }
+}
